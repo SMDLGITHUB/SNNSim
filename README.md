@@ -14,3 +14,8 @@ You set general options like time steps, time length per time step, neuron type,
 You can add or change the synaptic devices, CMOS neurons, and neural network operation schemes of your own, referring to our code.
 
 Run Main.py to get performance metrics of analog SNNs.
+
+
+# 0804 Update
+
+Additional SNN networks are supported through SNNSim.py
